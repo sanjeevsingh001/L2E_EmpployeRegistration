@@ -11,5 +11,5 @@ You can fork it. But before that, please give a star (It's totally free).
 - It is low level (raw) form of data and is also human readable.
 - It helps developers in faster coding, in-turn reduces development cost.
 ### Screenshots:
-![This is an image](https://github.com/sanjeevsingh001/L2E_EmpployeRegistration/edit/main/screenshots/form.png)
-![This is an image](https://github.com/sanjeevsingh001/L2E_EmpployeRegistration/edit/main/screenshots/jpdb.png)
+![This is an image](./screenshots/form.png)
+![This is an image](./screenshots/jpdb.png)
